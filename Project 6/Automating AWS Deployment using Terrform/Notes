@@ -1,0 +1,10 @@
+we will learn how to automate AWS infrastructure deployments using Terraform and integrate these processes into a CI/CD pipeline utilizing AWS CodePipeline. 
+Automating these workflows can significantly reduce manual errors and increase deployment efficiency.
+
+AWS CodeBuild is a fully managed build service that compiles source code, runs tests, and produces software packages ready for deployment.
+
+a  "build spec" file in AWS CodeBuild is A file that defines the steps and commands to run during the build process.
+
+When configuring an AWS CodePipeline to use Terraform, AWS CodeBuild can be used to run the Terraform commands.
+
+When setting up a CI/CD pipeline for Terraform, the buildspec.yml file is used to define the actions in the build and deploy stages.
