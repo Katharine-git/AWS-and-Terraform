@@ -8,3 +8,4 @@ a  "build spec" file in AWS CodeBuild is A file that defines the steps and comma
 When configuring an AWS CodePipeline to use Terraform, AWS CodeBuild can be used to run the Terraform commands.
 
 When setting up a CI/CD pipeline for Terraform, the buildspec.yml file is used to define the actions in the build and deploy stages.
+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
